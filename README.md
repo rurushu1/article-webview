@@ -1,4 +1,4 @@
-# Preview
+# Webview
 As the owner of a bot with a command that takes screenshots of websites, you may be wondering why I can only make this command available in NSFW channels on Discord. This restriction is in place to ensure that the bot does not inadvertently expose users to illegal or explicit content.
 
 There are numerous websites on the internet that contain content that is not suitable for all audiences. Some of these websites contain pornography, while others promote hate speech or illegal activities. As the owner of a bot that takes screenshots of websites, I need to be aware of the potential risks associated with exposing users to this content.
