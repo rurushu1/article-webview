@@ -8,3 +8,5 @@ Discord has a responsibility to ensure that its platform is safe for all users, 
 It's important to note that this restriction is not meant to limit the functionality of my bot. You can still execute the `/webview` command in NSFW channels. However, I should be mindful of the potential risks associated with exposing users to illegal or explicit content and take steps to ensure that my bot is not contributing to this problem.
 
 In conclusion, the restriction on my bot's `/webview` command is in place to ensure that my bot is not inadvertently exposing users to illegal or explicit content. By limiting the availability of this command to NSFW channels, I can help ensure that your bot is not contributing to this problem and that Discord remains a safe and welcoming platform for all users.
+
+arceus.
